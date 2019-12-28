@@ -1,0 +1,63 @@
+
+section{
+  background-color: #ee4a3f;
+  color: #fff;
+}
+.img-one h1{
+
+margin: 50px 0px;
+}
+
+
+.img-one p{
+
+margin: 40px 0px;
+}
+.img-two img{
+
+margin: 80px 0px;
+}
+.form{
+
+border-radius: 0px;
+
+background-color: #ff6258;
+
+border: none;
+
+}
+.form-group{
+  margin: 10px 15px;
+}
+.btn{
+  background: #ee4a3f;
+    border: none;
+    color: #fff;
+    font-size: xx-large;
+    margin: 70px auto;
+   
+}
+.footer-section{
+  margin: 0px auto;
+  padding: 25px;
+  background: #ef4035;
+    color: #fff;
+}
+.logo{  
+  margin-top: 10px;
+}
+.ol{
+  background: transparent;
+
+}
+.li{
+  background: transparent;
+  color: red;
+  cursor: pointer;
+    margin-top: 10px;
+}
+
+@media ( min-width: 320px) and (max-width: 768px){
+  body{
+    text-align: center;
+    }
